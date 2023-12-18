@@ -16,7 +16,7 @@ Education
   * Thesis: Combinatorial Aspects of Feynman Integrals and Causal Set Theory
   * GPA: 4.0 
 
-* B.Math in Combinatorics & Optimization and Computing, Dean's honour
+* B.Math in Combinatorics & Optimization and Computing, Dean's honour (2023)
   * Relevant coursework: 
      * Introduction to Machine Learning (Graduate level: CS680)
      * Optimization for Data Science (Graduate level: CS794)
