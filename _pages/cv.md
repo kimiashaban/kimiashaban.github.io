@@ -83,3 +83,40 @@ Work experience
   * [Elected as the parliamentarian](https://www.wrdsb.ca/blog/2017/07/11/new-student-trustees-look-forward-to-2017-18-school-year/) for the Student Senate committee, and acted as chair of the student led team to promote student initiatives and involvement for all secondary students in the region.
   * Served as the official student representative for the WRDSB Equity and Inclusion Team to promote an equitable student environment for all 64000 students.
   * Board member of the WRDSB Committee of the Whole.
+
+
+Volunteering 
+======
+Volunteer Work: 
+* Math Orientation Head-Pink-Tie, University of Waterloo (2022)
+  * As a Head Pink Tie, my role involved helping other student leaders stay up to date on minute-to-minute details during orientation week. This involved planning, several retreats for the leaders in the Faculty of Math, and furthermore planning to make orientation a positive experience for all students involved.
+
+* Science Society Board of Directors Chair, University of Waterloo (2018-2021)
+  * Served as parliamentarian of the University of Waterloo Science Society Board of Directors following Robert’s Rules of Order, between all Science Faculty departmental clubs and the governing Science student body. 
+
+* Tutor/Volunteer, Launch STEAM (2021)
+  * I helped students over the course of the pandemic understand the importance of Science Technology Environment Arts and Mathematics (STEAM). This occurred by offering at home synchronous programs for students aged 12-13, where we completed experiments at-home, as we all had the same kids that were remotely dropped off. 
+  * This program helped students have a synchronous learning experience during the pandemic, but also allowed them to see experiments for themselves once again, which was very difficult to do during quarantine. 
+
+* Orientation Coordinator, University of Waterloo (2020)
+  * Created action plans and facilitated scheduling all events for the Faculty of Science 2020 orientation for over 1500+ students. Given that as of March 2020 the COVID-19 pandemic made it impossible for orientation to happen in person, I helped create contingency plans for a virtual orientation, which was the case in September 2020.
+  * I independently ran Microsoft Teams and WebEx events for up to 200+ students during orientation week, and helped fascinate the change to a post-secondary institution for the incoming class of students.
+
+* Grand River Cancer Centre, Grand River Hospital (2018-2020)
+  * Assisted thousands of patients with check-in, ensured patients were comfortable awaiting medical treatment and helped organize patient files throughout day to day operations.
+  * Transported patient files throughout day to day operations, and acted as support for staff during busier hours of the day.
+
+* Let’s Talk Science, University of Waterloo (2016-2020)
+  * Involved with Science Outreach and furthermore the Let’s Talk Science program.
+  * Conducted class and community visits to teach youth from the ages 4-18 of the importance of science in their day-to-day lives. 
+
+* Waterloo Region District School Board Student Senate Co-Chair (2017-2018)
+  * Elected as the parliamentarian for the Student Senate committee.
+  * Acted as chair of the student led team to promote student initiatives and involvement for all secondary students in the region.
+
+* Federation of Canadian Secondary Students Ambassador (2017-2018)
+  * Promoted Canadian secondary students voices to encourage student extracurricular experiences and leadership among their local students communities.
+  * I encouraged event promotion, and helped at a local level to explain possible opportunities and scholarships available to WRDSB students due to FCSS-FESC's organization.
+
+* WRDSB Equity and Inclusion Team Member (2017-2018)
+  * Was elected as the official student representative for the WRDSB Equity and Inclusion Team to promote an equitable student environment for all 64000 students
