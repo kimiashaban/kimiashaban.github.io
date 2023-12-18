@@ -87,7 +87,6 @@ Work experience
 
 Volunteering 
 ======
-Volunteer Work: 
 * Math Orientation Head-Pink-Tie, University of Waterloo (2022)
   * As a Head Pink Tie, my role involved helping other student leaders stay up to date on minute-to-minute details during orientation week. This involved planning, several retreats for the leaders in the Faculty of Math, and furthermore planning to make orientation a positive experience for all students involved.
 
