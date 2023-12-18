@@ -7,9 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kimia Shaban / "
+title                    : "Kimia Shaban"
 title_separator          : "-"
 name                     : &name "Kimia Shaban"
+avatar                   : "profile.jpg"
 description              : &description "FIX THIS"
 url                      : https://kimiashaban.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
