@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "Kimia Shaban"
   avatar           : "profile.png"
+  favicon          : "favicon.ico"
   bio              : "MMath Student at the University of Waterloo"
   location         : "Waterloo, Ontario"
   employer         :
