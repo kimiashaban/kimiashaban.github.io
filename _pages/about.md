@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Kimia! I am a first year Master of Mathematics student at the University of Waterloo. I am incredibly fortunate to have the guidance and support of [Professor Karen Yeats](https://www.math.uwaterloo.ca/~kayeats/) as my advisor, whose expertise and insights have been invaluable to my growth and progress. During my master's, I have also had the wonderful oppertunity to work with Dr. Paul-Hermann Balduf, on the applications of maching learning for Feynman period estimation. 
+Hi, my name is Kimia! I am a first year Master of Mathematics student at the University of Waterloo. I am incredibly fortunate to have the guidance and support of [Professor Karen Yeats](https://www.math.uwaterloo.ca/~kayeats/) as my advisor, whose expertise and insights have been invaluable to my growth and progress. During my master's, I have also had the wonderful opportunity to work with Dr. Paul-Hermann Balduf, on the applications of maching learning for Feynman period estimation. 
 
-I completed my Bachelor of Mathematics at the University of Waterloo as well, in Combinatorics & Optimization and Computing, which I graduated with Dean's honour. During my undergraduate degree, I had the oppertunity of completing an undergraduate research term with [Professor Oliver Pechenik](https://www.math.uwaterloo.ca/~opecheni/) where we used reinforcement learning to further validate a conjecture on the Sperner property of finite Coxeter groups. 
+I completed my Bachelor of Mathematics at the University of Waterloo as well, in Combinatorics & Optimization and Computing, which I graduated with Dean's honour. During my undergraduate degree, I had the opportunity of completing an undergraduate research term with [Professor Oliver Pechenik](https://www.math.uwaterloo.ca/~opecheni/) where we used reinforcement learning to further validate a conjecture on the Sperner property of finite Coxeter groups. 
 
 About Me
 ======
