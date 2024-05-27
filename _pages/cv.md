@@ -43,6 +43,8 @@ Research Experience
 
 Awards & Scholarships 
 ======
+* Ontario Graduate Scholarship (OGS) and and Queen Elizabeth II Graduate Scholarship in Science & Technology (QEII-GSST) (declined due to NSERC CGSM M)
+* Canada Graduate Scholarships – Master’s (CGS M) program, NSERC (Spring 2024-Winter 2025)
 * Sinclair Graduate Scholarship, University of Waterloo (Winter 2023-2024)
 * C&O Graduate Award, University of Waterloo (Winter 2023-2024)
 * Math Domestic Graduate Student Award, University of Waterloo  (Winter 2023-2024)
