@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Waterloo, Canada"
 ---
 
-I will be a TA for CO 430 / CS 768 in the upcoming Winter 2024 term. 
+I was be a TA for CO 430 / CS 768 in the upcoming Winter 2024 term. I graded assignments and examinations, held bi-weekly office hours and proctored. 
