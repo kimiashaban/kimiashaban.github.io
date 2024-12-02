@@ -43,14 +43,16 @@ Research Experience
 
 Awards & Scholarships 
 ======
-* Ontario Graduate Scholarship (OGS) and and Queen Elizabeth II Graduate Scholarship in Science & Technology (QEII-GSST) (declined due to NSERC CGS M)
-* Canada Graduate Scholarships – Master’s (CGS M) program, NSERC (Spring 2024-Winter 2025)
-* Sinclair Graduate Scholarship, University of Waterloo (Winter 2023-2024)
-* C&O Graduate Award, University of Waterloo (Winter 2023-2024)
-* Math Domestic Graduate Student Award, University of Waterloo  (Winter 2023-2024)
-* Undergraduate Student Research Award, NSERC (Spring 2022)
-* President’s Scholarship, University of Waterloo (Fall 2018)
-* Ontario Student Trustee Award, Waterloo Region District School Board (Spring 2018)
+* Combinatorics & Optimization Outstanding TA Award (Spring 2024)
+* Ontario Graduate Scholarship (OGS) and and Queen Elizabeth II Graduate Scholarship in Science & Technology (QEII-GSST) (declined due to NSERC CGS M) ($15K)
+* Canada Graduate Scholarships – Master’s (CGS M) program, NSERC (Spring 2024-Winter 2025) ($27K)
+* President's Graduate Scholarship, University of Waterloo (Spring 2024-2025) ($10K)
+* Sinclair Graduate Scholarship, University of Waterloo (Winter 2023-2024) ($1K)
+* C&O Graduate Award, University of Waterloo (Winter 2023-2024) ($3K)
+* Math Domestic Graduate Student Award, University of Waterloo  (Winter 2023-2024) ($6K)
+* Undergraduate Student Research Award, NSERC (Spring 2022) ($6K)
+* President’s Scholarship, University of Waterloo (Fall 2018) ($2K)
+* Ontario Student Trustee Award, Waterloo Region District School Board (Spring 2018) ($2.5K)
 * Certificate of International Experience, Cameron Heights Collegiate Institute (Spring 2018)
 
 Publications
@@ -74,6 +76,9 @@ Teaching
 
 Work experience
 ======
+* Math Circles Host, Centre for Mathematics in Computing, University of Waterloo (2024)
+  * Provided students in grades 11/12 with an introduction to partial orderings, and defined paritally ordered sets with examples. 
+  * Introduced the concept of spacetime, and worked through examples constructing a locally finite partially ordred set based on lightcone diagrams. 
 * Student Ambassador, Marketing and Undergraduate Recruitment Team, University of Waterloo (2019-2021)
   * Managed and trained 150+ faculty coordinators and volunteers at all campus recruitment and off-campus events.
   * Evaluated fellow student ambassador tour leaders to guarantee a constructive experience and team growth.
