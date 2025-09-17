@@ -11,12 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.Math in Combinatorics & Optimization, 2024 (expected)
+* PhD in Computer Science, University of Toronto (expected 2029)
+  * Supervisor: Dr. Babak Taati
+  * Faculty Affiliate Research at Vector Institute
+  * Research Appointee at UHN
+  * Thesis: TBD
+
+* M.Math in Combinatorics & Optimization, University of Waterloo (2025)
   * Supervisor: Dr. Karen Yeats
   * Thesis: Combinatorial Aspects of Feynman Integrals and Causal Set Theory
   * GPA: 4.0 
 
-* B.Math in Combinatorics & Optimization and Computing, Dean's honour (2023)
+* B.Math in Combinatorics & Optimization and Computing, University of Waterloo, Dean's honour (2023)
   * Relevant coursework: 
      * Introduction to Machine Learning (Graduate level: CS680)
      * Optimization for Data Science (Graduate level: CS794)
