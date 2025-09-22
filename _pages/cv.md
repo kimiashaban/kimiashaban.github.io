@@ -50,7 +50,7 @@ Research Experience
 Awards & Scholarships 
 ======
 
-* NSERC Postgraduate Graduate Scholarship — Doctoral (PGS-D), University of Toronto (Fall 2025- Winter 2027)($40K/year)
+* NSERC Postgraduate Graduate Scholarship — Doctoral (PGS-D), University of Toronto (Fall 2025- Winter 2028)($40K/year)
 * Combinatorics & Optimization Outstanding TA Award (Spring 2024)
 * Ontario Graduate Scholarship (OGS) and and Queen Elizabeth II Graduate Scholarship in Science & Technology (QEII-GSST) (declined due to NSERC CGS M) ($15K)
 * Canada Graduate Scholarships – Master’s (CGS M) program, NSERC (Spring 2024-Winter 2025) ($27K)
