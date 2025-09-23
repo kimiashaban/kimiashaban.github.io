@@ -85,7 +85,7 @@ Teaching
 Mentoring and Outreach Experience
 ======
 * Mentor, Directed Reading Proram - Research, University of Waterloo (2025)
-  * Mentored six students with Tiadora Ruza and Ian George, exploring patterns that exist with past-future invariants
+  * Mentored six students with Tiadora Ruza and Ian George, exploring patterns that exist with past-future invariants. 
   * Co-led weekly meetings supervising students, assigning groups to code and
 develop tools to explore patterns in locally finite partially ordered sets.
 * Mentor, Directed Reading Proram - Research, University of Waterloo (2024)
