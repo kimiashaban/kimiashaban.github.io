@@ -82,11 +82,23 @@ Teaching
   {% endfor %}</ul>
   
 
-Work experience
+Mentoring and Outreach Experience
 ======
+* Mentor, Directed Reading Proram - Research, University of Waterloo (2025)
+  * Mentored six students with Tiadora Ruza and Ian George, exploring patterns that exist with past-future invariants
+  * Co-led weekly meetings supervising students, assigning groups to code and
+develop tools to explore patterns in locally finite partially ordered sets.
+* Mentor, Directed Reading Proram - Research, University of Waterloo (2024)
+  * Mentored four students with Tiadora Ruza, automating Combinatorial Exploration for Chord Diagrams.
+  * Co-led weekly meetings supervising students and assigned research tasks.
+* CS Escape Facilitator, The Centre for Education in Mathematics and Computing, University of Waterloo (2025)
+  * Facilitated weekly online sessions for the CS Escapes program. Introduced students to the basic fundamentals of programming, and assisted them on Piazza, answering questions about weekly homework tasks.
 * Math Circles Host, Centre for Mathematics in Computing, University of Waterloo (2024)
   * Provided students in grades 11/12 with an introduction to partial orderings, and defined paritally ordered sets with examples. 
   * Introduced the concept of spacetime, and worked through examples constructing a locally finite partially ordred set based on lightcone diagrams. 
+
+Work experience
+======
 * Student Ambassador, Marketing and Undergraduate Recruitment Team, University of Waterloo (2019-2021)
   * Managed and trained 150+ faculty coordinators and volunteers at all campus recruitment and off-campus events.
   * Evaluated fellow student ambassador tour leaders to guarantee a constructive experience and team growth.
