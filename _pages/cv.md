@@ -13,7 +13,7 @@ Education
 ======
 * PhD in Computer Science, University of Toronto (expected 2029)
   * Supervisor: Dr. Babak Taati
-  * Faculty Affiliate Research at Vector Institute
+  * Faculty Affiliate Researcher at Vector Institute
   * Research Appointee at UHN
   * Thesis: TBD
 
