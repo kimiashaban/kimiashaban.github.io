@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Waterloo, Canada"
 ---
 
-Created practice problems and guided students through the problems during weekly tutorials. Proctored and graded quizzes, midterms and the final for the course. 
+Created practice problems and led weekly tutorials; proctored and graded quizzes, midterms, and the final.

@@ -8,4 +8,4 @@ date: 2023-05-01
 location: "Waterloo, Canada"
 ---
 
-Graded quizzes, midterms and the final for the online section of the course. 
+Graded quizzes, midterms, and the final for the online section.

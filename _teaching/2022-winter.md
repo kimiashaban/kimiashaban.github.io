@@ -8,4 +8,4 @@ date: 2022-01-01
 location: "Waterloo, Canada"
 ---
 
-Held virtual office hours on Microsoft Teams to answer course related questions during the pandemic. 
+Held virtual office hours on Microsoft Teams to answer course questions during the pandemic.

@@ -8,4 +8,4 @@ date: 2025-01-01
 location: "Waterloo, Canada"
 ---
 
-I was the only TA for MATH 249 in the Winter 2025 term. I graded assignments and examinations, and proctored.
+Sole TA for MATH 249 (Winter 2025); graded assignments and exams, and proctored.

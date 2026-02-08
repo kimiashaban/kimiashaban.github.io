@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Kimia! I am a first year PhD student at the University of Toronto, working in the Department of Computer Science working under the supervision of [Dr. Babak Taati](https://www.cs.toronto.edu/~taati/). I am also a Faculty Affiliate Researcher at the Vector Institute, and a Research Appointee at the UHN. My research area is in AI for Healthcare and in Computer Vision. 
+Hi, my name is Kimia. I’m a first-year PhD student in Computer Science at the University of Toronto, advised by [Dr. Babak Taati](https://www.cs.toronto.edu/~taati/). I work on AI for healthcare and computer vision, and I’m a Faculty Affiliate Researcher at the Vector Institute and a Research Appointee at UHN.
 
-
-In my Master's I studied at the University of Waterloo. I am incredibly fortunate to have had the guidance and support of [Dr. Karen Yeats](https://www.math.uwaterloo.ca/~kayeats/) as my advisor, whose expertise and insights have been invaluable to my growth and progress. My thesis is available [here](https://uwspace.uwaterloo.ca/items/26a83106-75b2-4990-aeb2-ea94bd680a11). During my Master's, I have also had the wonderful opportunity to work with Dr. Paul-Hermann Balduf, on the applications of maching learning for Feynman period estimation, our work is now published in the [Journal of High Energy Physics](https://link.springer.com/article/10.1007/JHEP11(2024)038). 
-
-I completed my Bachelor of Mathematics at the University of Waterloo as well, in Combinatorics & Optimization and Computing, which I graduated with Dean's honour. During my undergraduate degree, I had the opportunity of completing an undergraduate research term with [Professor Oliver Pechenik](https://www.math.uwaterloo.ca/~opecheni/) where we used reinforcement learning to further validate a conjecture on the Sperner property of finite Coxeter groups. 
+I completed my M.Math in Combinatorics & Optimization at the University of Waterloo with [Dr. Karen Yeats](https://www.math.uwaterloo.ca/~kayeats/). My Master’s thesis is available [here](https://uwspace.uwaterloo.ca/items/26a83106-75b2-4990-aeb2-ea94bd680a11), and our work on machine learning for Feynman period estimation is published in the [Journal of High Energy Physics](https://link.springer.com/article/10.1007/JHEP11(2024)038).
 
 About Me
 ======
-I grew up in Waterloo, Ontario (making my net displacement currently zero). In my spare time, I enjoy playing the piano, taking hikes with my dog and playing Tetris. Another cool fact about me is that I can type about 140 wpm. 
+I grew up in Waterloo, Ontario and now live in Toronto. In my spare time, I enjoy playing the piano, taking hikes with my dog, and playing Tetris.
 
