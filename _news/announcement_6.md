@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[SEGA](https://arxiv.org/abs/2605.22668) was accepted to NeurIPS 2026!
+[SEGA](https://rajabi2001.github.io/sega/) was accepted to NeurIPS 2026!
