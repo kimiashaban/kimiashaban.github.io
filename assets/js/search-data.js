@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/journal-club/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-awarded-the-nserc-canada-graduate-scholarship-doctoral-cgs-d-40-000-year-for-2025-2028",
+        },{id: "news-awarded-the-nserc-canada-graduate-scholarship-doctoral-cgs-d-40-000-year-for-2025-2028",
           title: 'Awarded the NSERC Canada Graduate Scholarship — Doctoral (CGS-D), $40,000/year for 2025–2028.',
           description: "",
           section: "News",},{id: "news-started-my-phd-in-computer-science-at-the-university-of-toronto-advised-by-dr-babak-taati-also-joined-the-vector-institute-as-a-faculty-affiliate-researcher-and-kite-uhn-as-a-research-appointee",
@@ -53,62 +48,7 @@ ninja.data = [{
           section: "News",},{id: "news-sega-was-accepted-to-neurips-2026",
           title: 'SEGA was accepted to NeurIPS 2026!',
           description: "",
-          section: "News",},{id: "projects-medbridgerl",
-          title: 'MedBridgeRL',
-          description: "When does RL help medical vision-language models?",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-ml-for-feynman-periods",
-          title: 'ML for Feynman Periods',
-          description: "Predicting Feynman periods in φ⁴-theory with machine learning",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-rl-for-coxeter-groups",
-          title: 'RL for Coxeter Groups',
-          description: "Deep Q-learning to explore the Sperner property in finite Coxeter groups",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
