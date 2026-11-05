@@ -36,7 +36,7 @@ My recent work asks two questions:
 - **When does reinforcement learning actually help medical vision-language models?** In [MedBridgeRL](https://medbridgerl.github.io/) we separate the gains that come from the vision encoder, from supervised fine-tuning, and from RL. [arXiv](https://arxiv.org/abs/2603.01301)
 - **Can diffusion transformers generate at resolutions they were never trained on, without retraining?** [SEGA](https://rajabi2001.github.io/sega/) scales attention per RoPE frequency band using the spectral energy of the latent at each denoising step. Accepted to NeurIPS 2026. [arXiv](https://arxiv.org/abs/2605.22668)
 
-Before my PhD, I worked on machine learning for quantum field theory and combinatorics: predicting Feynman periods in φ⁴-theory with [Dr. Paul-Hermann Balduf](https://paulbalduf.com/) ([JHEP 2024](<https://link.springer.com/article/10.1007/JHEP11(2024)038>)), the statistics of subdivergence-free Feynman integrals ([arXiv](https://arxiv.org/abs/2512.06898)), and witnesses in Covtree with [Dr. Karen Yeats](https://www.math.uwaterloo.ca/~kayeats/) ([arXiv](https://arxiv.org/abs/2605.00622)). The full list is on the [publications](/publications/) page.
+Before my PhD, I worked on machine learning for quantum field theory and combinatorics: predicting Feynman periods in φ⁴-theory with [Dr. Paul-Hermann Balduf](https://paulbalduf.com/) ([JHEP 2024](<https://link.springer.com/article/10.1007/JHEP11(2024)038>)), the statistics of subdivergence-free Feynman integrals ([arXiv](https://arxiv.org/abs/2512.06898)), and witnesses in Covtree with [Dr. Rowan Yeats](https://www.math.uwaterloo.ca/~kayeats/) ([arXiv](https://arxiv.org/abs/2605.00622)). The full list is on the [publications](/publications/) page.
 
 #### Beyond research
 
@@ -46,6 +46,6 @@ Before my PhD, I worked on machine learning for quantum field theory and combina
 
 #### Background
 
-I completed an MMath in Combinatorics & Optimization at the University of Waterloo, supervised by Dr. Karen Yeats. My [thesis](https://uwspace.uwaterloo.ca/items/26a83106-75b2-4990-aeb2-ea94bd680a11) is on combinatorial aspects of Feynman integrals and causal set theory. Before that I did a BMath at Waterloo, with research terms on explainable AI and foundation models for contextual bandits with Prof. Pascal Poupart, and on deep Q-learning for antichains in Coxeter groups with Prof. Oliver Pechenik.
+I completed an MMath in Combinatorics & Optimization at the University of Waterloo, supervised by Dr. Rowan Yeats. My [thesis](https://uwspace.uwaterloo.ca/items/26a83106-75b2-4990-aeb2-ea94bd680a11) is on combinatorial aspects of Feynman integrals and causal set theory. Before that I did a BMath at Waterloo, with a research term on deep Q-learning for antichains in Coxeter groups with Prof. Oliver Pechenik.
 
 I grew up in Waterloo, Ontario. Outside of research I play piano, hike with my dog, and play Tetris.
