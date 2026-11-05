@@ -3,7 +3,7 @@ cv:
   label: PhD Student in Computer Science
   email: kimia.shaban@mail.utoronto.ca
   url: https://kimiashaban.github.io
-  summary: PhD student in Computer Science at the University of Toronto, working on AI for healthcare and computer vision.
+  summary: PhD student in Computer Science at the University of Toronto, working on computer vision and vision-language models.
 
   social_networks:
     - network: GitHub
@@ -54,7 +54,7 @@ cv:
         start_date: 2025
         end_date: present
         highlights:
-          - Research in computer vision and machine learning for healthcare.
+          - Research in computer vision and vision-language models.
 
       - company: University Health Network (KITE UHN)
         position: Research Appointee
@@ -150,7 +150,7 @@ cv:
 
     Skills:
       - name: Research Areas
-        keywords: "Machine Learning for Healthcare, Computer Vision, Vision-Language Models, Reinforcement Learning, Combinatorics"
+        keywords: "Computer Vision, Vision-Language Models, Generative Models, Reinforcement Learning, Combinatorics"
 
     Interests:
       - name: Hobbies

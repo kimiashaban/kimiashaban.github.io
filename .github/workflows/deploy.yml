@@ -59,6 +59,8 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+  schedule:
+    - cron: "0 10 * * *" # daily, so journal club edits made in TaatiTeam/journal-club show up within a day
   workflow_dispatch:
 
 permissions:
@@ -71,6 +73,15 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
+      - name: Sync journal club data from TaatiTeam/journal-club 🔄
+        run: |
+          if git clone --quiet --depth 1 https://github.com/TaatiTeam/journal-club.git /tmp/journal-club; then
+            cp /tmp/journal-club/_data/journal_club.yml _data/journal_club.yml
+            mkdir -p assets/img/journal_club
+            cp -R /tmp/journal-club/assets/img/journal_club/. assets/img/journal_club/
+          else
+            echo "::warning::Could not fetch TaatiTeam/journal-club; using the committed copy of _data/journal_club.yml"
+          fi
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
