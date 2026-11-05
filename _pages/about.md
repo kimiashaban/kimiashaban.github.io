@@ -33,7 +33,7 @@ I am a Faculty Affiliate Researcher at the [Vector Institute](https://vectorinst
 
 My recent work asks:
 
-- **Can diffusion transformers generate at resolutions they were never trained on, without retraining?** [SEGA](https://rajabi2001.github.io/sega/) scales attention per RoPE frequency band using the spectral energy of the latent at each denoising step. Accepted to NeurIPS 2026. [Project page](https://rajabi2001.github.io/sega/)
+- **Can diffusion transformers generate at resolutions they were never trained on, without retraining?** [SEGA](https://rajabi2001.github.io/sega/) scales attention per RoPE frequency band using the spectral energy of the latent at each denoising step. Accepted to NeurIPS 2026.
 
 Before my PhD, I worked on machine learning for quantum field theory and combinatorics: predicting Feynman periods in φ⁴-theory with [Dr. Paul-Hermann Balduf](https://paulbalduf.com/) ([JHEP 2024](<https://link.springer.com/article/10.1007/JHEP11(2024)038>)), the statistics of subdivergence-free Feynman integrals ([arXiv](https://arxiv.org/abs/2512.06898)), and witnesses in Covtree with [Dr. Rowan Yeats](https://www.math.uwaterloo.ca/~kayeats/) ([arXiv](https://arxiv.org/abs/2605.00622)). The full list is on the [publications](/publications/) page.
 
