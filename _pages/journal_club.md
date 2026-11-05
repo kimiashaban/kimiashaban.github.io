@@ -29,6 +29,7 @@ nav_order: 4
     window.addEventListener("message", function (e) {
       if (e.origin !== ORIGIN || !e.data || !e.data.journalClubHeight) return;
       frame.style.height = e.data.journalClubHeight + "px";
+      frame.style.minHeight = "0";
     });
     new MutationObserver(function () {
       frame.contentWindow && frame.contentWindow.postMessage({ journalClubTheme: theme() }, ORIGIN);
