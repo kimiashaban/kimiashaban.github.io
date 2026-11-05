@@ -2,7 +2,7 @@
 layout: page
 permalink: /journal-club/
 title: journal club
-description: The Computer Vision Journal Club at the University of Toronto, KITE, and the Vector Institute. Edited at <a href="https://taatiteam.github.io/journal-club/">taatiteam.github.io/journal-club</a>.
+description: The Computer Vision Journal Club at the University of Toronto, KITE, and the Vector Institute.
 nav: true
 nav_order: 4
 ---
