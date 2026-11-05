@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-journal-club",
           title: "journal club",
-          description: "Upcoming speakers, past sessions, and the organizing team.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/journal-club/";
+            window.location.href = "/https:/taatiteam.github.io/journal-club/";
           },
         },{id: "news-awarded-the-nserc-canada-graduate-scholarship-doctoral-cgs-d-40-000-year-for-2025-2028",
           title: 'Awarded the NSERC Canada Graduate Scholarship — Doctoral (CGS-D), $40,000/year for 2025–2028.',
