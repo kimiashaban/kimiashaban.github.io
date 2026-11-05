@@ -41,7 +41,7 @@ Before my PhD, I worked on machine learning for quantum field theory and combina
 
 - I run our group's [journal club](/journal-club/), a series of paper discussions and guest talks that has been going since 2019. I set the schedule, invite speakers, and maintain the page. We meet on Tuesdays at the Vector Institute.
 - I co-organized the [MoCha Workshop on Human Motion Challenges in Real-World and Clinical Settings](https://mocha.care-pd.ca/) at ECCV 2026.
-- I have been a teaching assistant for a dozen courses at Toronto and Waterloo, including Lead TA for CSC111, and received the C&O Department Outstanding TA Award at Waterloo. See [teaching](/teaching/).
+- I have been a teaching assistant for a dozen courses at Toronto and Waterloo, including Lead TA for CSC110 and CSC111, and received the C&O Department Outstanding TA Award at Waterloo. See [teaching](/teaching/).
 
 #### Background
 
