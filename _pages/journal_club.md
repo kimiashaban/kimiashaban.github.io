@@ -17,6 +17,8 @@ nav_order: 4
 {% assign zoom_url = m.zoom_url | default: '' %}
 {% assign signup_url = m.signup_url | default: '' %}
 {% assign signup_note = m.signup_note | default: '' %}
+{% assign slack_channel = m.slack_channel | default: '' %}
+{% assign slack_note = m.slack_note | default: '' %}
 {% assign archive_url = jc.archive_url | default: '' %}
 {% assign header_image = jc.header_image | default: '' %}
 {% assign header_rel = 'assets/img/' | append: header_image %}
@@ -35,9 +37,9 @@ nav_order: 4
 </div>
 {% endif %}
 
-<p class="jc-tagline">{{ jc.tagline }}</p>
+<p class="jc-tagline">{{ jc.tagline | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
 
-{% if cadence != '' or mtime != '' or location != '' or format != '' or contact != '' %}
+{% if cadence != '' or mtime != '' or location != '' or format != '' or contact != '' or slack_channel != '' %}
 
 <ul class="jc-meta list-unstyled">
   {% if cadence != '' or mtime != '' %}
@@ -45,6 +47,7 @@ nav_order: 4
   {% endif %}
   {% if location != '' %}<li><i class="fa-solid fa-location-dot"></i>{{ location }}</li>{% endif %}
   {% if format != '' %}<li><i class="fa-solid fa-video"></i>{{ format }}</li>{% endif %}
+  {% if slack_channel != '' %}<li><i class="fa-brands fa-slack"></i>{{ slack_channel }}{% if slack_note != '' %} {{ slack_note }}{% endif %}</li>{% endif %}
   {% if contact != '' %}<li><i class="fa-regular fa-envelope"></i><a href="mailto:{{ contact }}">{{ contact }}</a></li>{% endif %}
 </ul>
 {% endif %}
