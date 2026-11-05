@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-journal-club",
           title: "journal club",
-          description: "The Computer Vision Journal Club at the University of Toronto, KITE, and the Vector Institute. Edited at taatiteam.github.io/journal-club.",
+          description: "The Computer Vision Journal Club at the University of Toronto, KITE, and the Vector Institute.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/journal-club/";
