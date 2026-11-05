@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-journal-club",
           title: "journal club",
-          description: "",
+          description: "The Computer Vision Journal Club at the University of Toronto, KITE, and the Vector Institute. Edited at taatiteam.github.io/journal-club.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/taatiteam.github.io/journal-club/";
+            window.location.href = "/journal-club/";
           },
         },{id: "news-awarded-the-nserc-canada-graduate-scholarship-doctoral-cgs-d-40-000-year-for-2025-2028",
           title: 'Awarded the NSERC Canada Graduate Scholarship — Doctoral (CGS-D), $40,000/year for 2025–2028.',
